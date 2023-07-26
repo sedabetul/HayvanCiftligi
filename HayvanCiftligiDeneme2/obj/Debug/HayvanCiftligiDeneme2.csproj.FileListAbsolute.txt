@@ -1,0 +1,11 @@
+C:\Users\Lenova\source\repos\HayvanCiftligiDeneme2\HayvanCiftligiDeneme2\bin\Debug\HayvanCiftligiDeneme2.exe.config
+C:\Users\Lenova\source\repos\HayvanCiftligiDeneme2\HayvanCiftligiDeneme2\bin\Debug\HayvanCiftligiDeneme2.exe
+C:\Users\Lenova\source\repos\HayvanCiftligiDeneme2\HayvanCiftligiDeneme2\bin\Debug\HayvanCiftligiDeneme2.pdb
+C:\Users\Lenova\source\repos\HayvanCiftligiDeneme2\HayvanCiftligiDeneme2\obj\Debug\HayvanCiftligiDeneme2.csproj.AssemblyReference.cache
+C:\Users\Lenova\source\repos\HayvanCiftligiDeneme2\HayvanCiftligiDeneme2\obj\Debug\HayvanCiftligiDeneme2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenova\source\repos\HayvanCiftligiDeneme2\HayvanCiftligiDeneme2\obj\Debug\HayvanCiftligiDeneme2.Form1.resources
+C:\Users\Lenova\source\repos\HayvanCiftligiDeneme2\HayvanCiftligiDeneme2\obj\Debug\HayvanCiftligiDeneme2.Properties.Resources.resources
+C:\Users\Lenova\source\repos\HayvanCiftligiDeneme2\HayvanCiftligiDeneme2\obj\Debug\HayvanCiftligiDeneme2.csproj.GenerateResource.cache
+C:\Users\Lenova\source\repos\HayvanCiftligiDeneme2\HayvanCiftligiDeneme2\obj\Debug\HayvanCiftligiDeneme2.csproj.CoreCompileInputs.cache
+C:\Users\Lenova\source\repos\HayvanCiftligiDeneme2\HayvanCiftligiDeneme2\obj\Debug\HayvanCiftligiDeneme2.exe
+C:\Users\Lenova\source\repos\HayvanCiftligiDeneme2\HayvanCiftligiDeneme2\obj\Debug\HayvanCiftligiDeneme2.pdb
